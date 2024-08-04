@@ -1,8 +1,0 @@
-streamlit
-langchain
-openai
-langchain-community
-langchain-core
-langchain-openai
-
-
