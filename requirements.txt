@@ -3,6 +3,7 @@ langchain
 openai
 langchain-community
 langchain-core
+pypdf
 langchain-openai
 
 
