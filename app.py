@@ -8,13 +8,11 @@ from langchain_community.chat_message_histories import StreamlitChatMessageHisto
 from langchain.prompts.chat import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain.document_loaders import PyPDFLoader
-# from dotenv import load_dotenv
 
-# load_dotenv()
 
 # Set up AI71 API details
 AI71_BASE_URL = "https://api.ai71.ai/v1/"
-AI71_API_KEY = st.secrets[general]["AI71_API_KEY"]
+AI71_API_KEY = st.secrets["AI71_API_KEY"]
 # AI71_API_KEY = os.getenv("AI71_API_KEY")
 
 # Initialize ChatOpenAI
@@ -222,7 +220,7 @@ except Exception as e:
 for msg in msgs.messages:
     st.chat_message(msg.type).write(msg.content)
 
-# If user inputs a new prompt, generate and draw a new response
+# If user inputs a new prompt
 if prompt := st.chat_input():
     st.chat_message("human").write(prompt)
     # Adjust the system message based on the task and context
@@ -254,7 +252,7 @@ if prompt := st.chat_input():
     except Exception as e:
         st.error(f"Error while generating response: {e}")
 
-# Draw the messages at the end, so newly generated ones show up immediately
+# Draw the messages
 # with view_messages:
 #     """
 #     Message History initialized with:
