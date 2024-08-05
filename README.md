@@ -1,5 +1,4 @@
 
-
 ---
 
 <p align="center">
@@ -173,7 +172,7 @@ streamlit run src/app.py
 
 #### Using `streamlit`
 
-> [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://readme-ai.streamlit.app](https://lexisai.streamlit.app/)/)
+> [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https
 >
 > <sub>Try directly in your browser on <a href="https://streamlit.io/">Streamlit</a>, no installation required! For more details, check out the <a href="[https://github.com/eli64s/readme-ai-streamlit](https://github.com/nurqoneah/falcon-ai-hackathon/)">readme-ai-streamlit</a> repository.</sub>
 
@@ -191,11 +190,13 @@ pytest
 
 ##  Project Roadmap
 
-- [X] `► Initial Setup`
-- [ ] `► Feature: Document Simplification`
-- [ ] `► Feature: Predictive Analytics`
-- [ ] `► Feature: Automated Legal Research`
-- [ ] `► Additional Features and Improvements`
+| Milestone            | Description                                              | Status   |
+|----------------------|----------------------------------------------------------|----------|
+| **Initial Release**  | Complete initial release of Lexis AI with core features | Done     |
+| **Feature Enhancements** | Add additional features based on user feedback         | In Progress |
+| **Performance Tuning** | Optimize the application for better performance         | Planned  |
+| **Security Improvements** | Implement advanced security measures to protect user data | Planned  |
+| **Documentation Updates** | Improve and update documentation for clarity and completeness | Planned  |
 
 ---
 
@@ -232,6 +233,14 @@ Contributions are welcome! Here are several ways you can contribute:
    ```
 7. **Submit a Pull Request**: Create a PR against the original repository. Describe the changes and their motivations.
 
+### Contributors
+
+- [@EQUINOX391](https://github.com/EQUINOX391)
+- [@idakumudah (Bayu Samudra)](https://github.com/idakumudah)
+- [@kurniagilang (Gilang)](https://github.com/kurniagilang) (awaiting response)
+- [@salmanharitsi (Salman Al Haritsi)](https://github.com/salmanharitsi)
+- [@yudhit08 (Yudhit)](https://github.com/yudhit08) (awaiting response)
+
 </details>
 
 <br>
@@ -245,16 +254,23 @@ Contributions are welcome! Here are several ways you can contribute:
 
 ##  License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+Lexis AI is licensed under the .. License. See the [LICENSE](https://github.com/yourusername/lexis-ai/blob/master/LICENSE) file for more details.
 
 ---
 
 ##  Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
-
-[**Return**](#-quick-links)
+This project was developed as part of a hackathon organized by [lablab.ai](https://lablab.ai) using the LLM Falcon model. Special thanks to the contributors for their valuable input and support throughout the development process.
 
 ---
 
-Feel free to adjust any sections to better fit your project specifics or personal preferences!
+Feel free to adjust any specific details such as URLs or file paths according to your actual repository setup.
+
+
+
+
+
+---
+
+
+
