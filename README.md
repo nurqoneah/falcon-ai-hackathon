@@ -239,8 +239,8 @@ Contributions are welcome! Here are several ways you can contribute:
 
 <br>
 <p align="left">
-  <a href="https://github.com{/eli64s/readme-ai/}graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=eli64s/readme-ai">
+  <a href="https://github.com/nurqoneah/falcon-ai-hackathon/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=nurqoneah/falcon-ai-hackathon">
   </a>
 </p>
 
