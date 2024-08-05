@@ -8,14 +8,11 @@ from langchain_community.chat_message_histories import StreamlitChatMessageHisto
 from langchain.prompts.chat import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain.document_loaders import PyPDFLoader
-from dotenv import load_dotenv
-
-load_dotenv()
 
 # Set up AI71 API details
 AI71_BASE_URL = "https://api.ai71.ai/v1/"
-# AI71_API_KEY = st.secrets["AI71_API_KEY"]
-AI71_API_KEY = os.getenv("AI71_API_KEY")
+AI71_API_KEY = st.secrets["AI71_API_KEY"]
+
 
 # Initialize ChatOpenAI
 chat = ChatOpenAI(
