@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <img src="https://www.svgrepo.com/show/395851/balloon.svg" width="100" />
+  <img src="assets/img/Desain_tanpa_judul.png" width="150" />
 </p>
 <p align="center">
     <h1 align="center">README-LEXIS-AI</h1>
@@ -20,7 +20,6 @@
 		<em>Developed with the software and tools below.</em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=flat&logo=GNU-Bash&logoColor=white" alt="GNU%20Bash">
 	<img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white" alt="Streamlit">
 	<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript">
@@ -52,14 +51,10 @@ Lexis AI is a cutting-edge project designed to revolutionize legal assistance th
 
 ## 👾 Demo
 
-**Standard CLI Usage:**
+**Demo App**
 
-[readmeai-cli-demo](https://github.com/eli64s/artifacts/assets/43382407/55b8d1b9-06a7-4b1f-b6a7-aaeccdb27679
+[LexisAI demo](https://lablab.ai/event/falcon-hackathon/unrivers/lexisai
 )
-
-**Offline Mode Demonstration:**
-
-[readmeai-streamlit-demo](https://github.com/eli64s/artifacts/assets/43382407/3eb39fcf-c1df-49c6-bb5c-63e141857ae3)
 
 
 
